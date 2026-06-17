@@ -13,7 +13,7 @@ import SuccessPage from './pages/SuccessPage.jsx';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/odetente-massage">
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<HomePage />} />
@@ -30,7 +30,7 @@ function App() {
             <div className="text-center">
               <h1 className="mb-4">Page non trouvée</h1>
               <p className="text-muted-foreground mb-6">La page que vous recherchez n'existe pas.</p>
-              <a href="/" className="inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-all duration-200 active:scale-[0.98] font-medium">
+              <a href="/odetente-massage/" className="inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-all duration-200 active:scale-[0.98] font-medium">
                 Retour à l'accueil
               </a>
             </div>
