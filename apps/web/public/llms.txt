@@ -1,0 +1,9 @@
+## Pages
+- [| Boutique Ô Détente](/productdetail): No description available
+- [| Ô Détente`}](/servicedetail): No description available
+- [Boutique | Ô Détente](/shop): Découvrez notre sélection exclusive de produits de bien-être pour prolonger l
+- [Commande Confirmée | Ô Détente](/success): No description available
+- [Contact - Réservez votre rendez-vous | Ô Détente](/contact): Contactez Ô Détente pour réserver votre rendez-vous. Téléphone: (514) 555-0123. Adresse: 123 Rue de la Détente, Montréal. Formulaire de contact disponible.
+- [Nos Services | Ô Détente](/services): Découvrez notre carte de soins et massages. Une expérience sur-mesure pour votre bien-être.
+- [Ô Détente | Spa de Luxe & Bien-être](/home): Découvrez Ô Détente, votre sanctuaire de paix. Massages, soins et bien-être avec une approche holistique et luxueuse.
+- [Questions Fréquentes (FAQ) | Ô Détente](/faq): Trouvez les réponses à vos questions sur nos services, tarifs, rendez-vous et modes de paiement. Contactez-nous pour toute question supplémentaire.
